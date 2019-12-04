@@ -6,6 +6,6 @@ class SumNumberTest {
 
     @Test
     void sumTwoNumber() {
-        assertEquals(5, SumNumber.sumTwoNumber(2,3));
+        assertEquals(5, SumNumber.sumTwoNumber(2,2));
     }
 }
